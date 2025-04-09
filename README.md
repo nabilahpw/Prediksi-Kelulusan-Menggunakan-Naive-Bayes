@@ -1,0 +1,3 @@
+PREDIKSI KELULUSAN MAHASISWA MENGGUNAKAN ALGORITMA KLASIFIKASI NAIVE BAYES
+
+Sumber dataset berasal dari https://www.kaggle.com
